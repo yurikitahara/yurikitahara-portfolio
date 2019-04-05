@@ -1,0 +1,127 @@
+ html,
+  .body
+  {
+     
+      margin-top: 50px;
+     
+  }
+  
+  header,
+  .view {
+    height: 100%;
+  }
+
+.top-nav-collapse {
+    background-color:  #000!important;
+  }
+
+  
+
+ #topMyname{
+    margin-top: 100px;
+    color: black !important;
+    font-size: 400%;
+  }
+  #topMyname2{
+    margin-top: 50px;
+    color: black !important;
+    font-size: 200%;
+  }
+  
+  
+   
+   .navbar:not(.top-nav-collapse) {
+    background: transparent !important;
+  }
+
+view .mask {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    width: 100%;
+    height: 100%;
+    background-attachment: fixed;
+}
+
+  h1 {
+    letter-spacing: 8px;
+  }
+
+  h5 {
+    letter-spacing: 3px;
+  }
+  .mb-4, .my-4 {
+    margin-bottom: 1rem!important;
+}
+
+
+/*The ine*/
+  .hr-light {
+    border-top:4px solid #000;
+    width: 200px;
+  }
+  
+#navbar{background: #9ea0a2 !important;}
+  .navbar.navbar-dark .breadcrumb .nav-item .nav-link, .navbar.navbar-dark .navbar-nav .nav-item .nav-link {
+    color: #000;
+    -webkit-transition: .35s;
+    -o-transition: .35s;
+    transition: .35s;
+    background: #9ea0a2 !important;
+}
+
+
+
+#jarallax-container-0 {
+           clip: rect(0 504px 788px 0);
+           clip: rect(0, 504px, 788px, 0);
+        }
+  
+  @-webkit-keyframes chartjs-render-animation{from{opacity:0.99}to{opacity:1}}@keyframes chartjs-render-animation{from{opacity:0.99}to{opacity:1}}.chartjs-render-monitor{-webkit-animation:chartjs-render-animation 0.001s;animation:chartjs-render-animation 0.001s;}
+
+ 
+.container, .container-fluid {
+   
+    padding-top: 5px;
+    margin-right: auto;
+    margin-left: auto;
+    width: 100%;
+}
+ @media (max-width: 667px)
+ {#topMyname{
+    color: black !important;
+    font-size: 150%;
+    .navbar:not(.top-nav-collapse) {
+      background: #9ea0a2 !important;}
+     
+      #topMyname2{
+    color: black !important;
+    font-size: 80%;
+    .navbar:not(.top-nav-collapse) {
+      background: #9ea0a2 !important;}
+      
+  }
+  
+@media (max-width: 768px)
+ {#topMyname{
+    margin-top: 100px;
+    color: black !important;
+    font-size: 150%;
+    .navbar:not(.top-nav-collapse) {
+      background: #9ea0a2 !important;}
+ #topMyname2{
+   color: black !important;
+    font-size: 100%;
+    .navbar:not(.top-nav-collapse) {
+      background: #9ea0a2 !important;}
+  }
+@media (max-width: 2000px) {
+    .navbar:not(.top-nav-collapse) {
+      background: #9ea0a2 !important;}
+  }
+
+  
+ 
+
