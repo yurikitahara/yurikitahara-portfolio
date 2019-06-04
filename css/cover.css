@@ -66,6 +66,10 @@ div.a {
   text-align: center;
 }
 
+.mt-4, .my-4 {
+    margin-top: 0rem!important;
+}
+
 /*The ine*/
   .hr-light {
     border-top:4px solid #000;
