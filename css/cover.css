@@ -55,7 +55,9 @@ view .mask {
   .mb-4, .my-4 {
     margin-bottom: 1rem!important;
 }
-
+div.a {
+  text-align: center;
+}
 
 /*The ine*/
   .hr-light {
