@@ -15,7 +15,14 @@
     background-color:  #000!important;
   }
 
-  
+  .pb-5, .py-5 {
+    padding-bottom: 0rem!important;
+}
+
+
+.mb-5, .my-5 {
+    margin-bottom: 0.5rem!important;
+}
 
  #topMyname{
     margin-top: 100px;
