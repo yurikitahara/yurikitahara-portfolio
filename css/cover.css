@@ -24,12 +24,15 @@
 
  #topMyname{
     margin-top: 100px;
-    color: red !important;
+      color:#ff0000;
     font-size: 400%;
   }
+
+
+
   #topMyname2{
     margin-top: 50px;
-    color: red !important;
+    color:#ff0000;
     font-size: 200%;
   }
   
