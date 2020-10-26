@@ -56,7 +56,10 @@ view .mask {
   h1 {
     letter-spacing: 8px;
   }
+h2 {
+    text-align: center;
 
+  }
   h5 {
     letter-spacing: 3px;
   }
