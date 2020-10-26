@@ -1,10 +1,8 @@
  html,
   .body
   {
-     
-      margin-top: 50px;
-     
-  }
+     margin-top: 50px;
+   }
   
   header,
   .view {
@@ -26,12 +24,12 @@
 
  #topMyname{
     margin-top: 100px;
-    color: black !important;
+    color: red !important;
     font-size: 400%;
   }
   #topMyname2{
     margin-top: 50px;
-    color: black !important;
+    color: red !important;
     font-size: 200%;
   }
   
@@ -104,13 +102,13 @@ div.a {
 }
  @media (max-width: 667px)
  {#topMyname{
-    color: black !important;
+    color: red !important;
     font-size: 150%;
     .navbar:not(.top-nav-collapse) {
       background: #9ea0a2 !important;}
      
       #topMyname2{
-    color: black !important;
+    color: red !important;
     font-size: 80%;
     .navbar:not(.top-nav-collapse) {
       background: #9ea0a2 !important;}
@@ -120,12 +118,12 @@ div.a {
 @media (max-width: 768px)
  {#topMyname{
     margin-top: 100px;
-    color: black !important;
+    color: red !important;
     font-size: 150%;
     .navbar:not(.top-nav-collapse) {
       background: #9ea0a2 !important;}
  #topMyname2{
-   color: black !important;
+   color: red !important;
     font-size: 100%;
     .navbar:not(.top-nav-collapse) {
       background: #9ea0a2 !important;}
